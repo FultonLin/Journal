@@ -2,23 +2,30 @@ May 4, 2017
 1. Create repository for group
 
 One way Heroic:	Thoughts about how to code this
-
 moving the character I can make it so when moving up or down you would also move left and when you reach a certain x coordinate as the character then you would
 die
 and when moving right or left it would seem like it is running from or to the darkness
 
 Evoland: Thoughts about how to code this
-
 create some fields that contain the properties that would become true once the player retrieves the specific item and then the code runs off the fact
 if they are true or false and separate folders that would contain different changes around the world such as color or change in the graphics
 
 obstacles:
-
 ideas on how to code obstacles create a superclass which contains the general properties of an obstacles and a sub class would be a more specific containing more
 properties that may be unique to it
 
-accomplished
+accomplished:
 created repository and thought about things that are needed for the games that we may code
 
 tomorrow: 
 Start creating and testing obstacles to see if it can actually work with each different kind of obstacles
+
+
+
+
+May 5, 2017
+
+thought about how to create the illusion of the character icon moving where as the chracter icon is above the map and moves separately
+started to get the map ready for all the items that will be on it
+
+Tomorrow: create the map and continue testing obstacles and thoughts on how to do it

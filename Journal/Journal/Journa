@@ -29,3 +29,11 @@ thought about how to create the illusion of the character icon moving where as t
 started to get the map ready for all the items that will be on it
 
 Tomorrow: create the map and continue testing obstacles and thoughts on how to do it
+
+May 8, 2017
+
+started to create the overhead image and discusses on how to plan each square on the map such that we add the entity to each square in a 
+2d array
+-Discussing whether or not to use another game engine
+
+tomorrow: finalize whether or not to use another engine

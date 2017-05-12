@@ -61,3 +61,10 @@ May 11, 2017:
 had a problem where some files were not found had to reset up files and finished the class with all screens that are needed.
 
 tomorrow: start on the actual game and fix up the needed stuff.
+
+may 12, 2017:
+Could not get anything done because of the fact that the files are there but when running it gives me a java.lang.NoClassDefFoundError:
+and could not find a solution
+
+tomorrow:
+hopefully can find a fix and then try to continue coding the stuff needed.

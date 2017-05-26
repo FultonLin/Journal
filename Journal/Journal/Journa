@@ -109,8 +109,10 @@ may 25 2017:
 made stuff center for menu and made the battle monster and the stuff needed for battle 
 tomorrow: make character battle the monster and try and figure out inventory 
 
-
-
+may 26 2017:
+made the monster attack player based on their attack and spd of attack but there is a problem with the script stopping the whole thing
+so decided to make a new thread just to determine if player is near or on the monster which then is able to be stoped without problems
+tomorrow: finish the basic needs of open world fighting and try to do inventory
 
 
 

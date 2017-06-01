@@ -114,8 +114,9 @@ made the monster attack player based on their attack and spd of attack but there
 so decided to make a new thread just to determine if player is near or on the monster which then is able to be stoped without problems
 tomorrow: finish the basic needs of open world fighting and try to do inventory
 
-
-
+june 1 2017:
+finished up monster attacking without stopping the whole script
+tomorrow: maybe do monster following and dmg monsters do is dependent on what is equiped
 
 
 

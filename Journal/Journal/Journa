@@ -126,3 +126,10 @@ june 5 2017:
 didnt do any coding only thought about how to continue on from here
 thoughts: try and create inventory interface that allows for equiping and thoughts on how monsters will effect the map and player
 tomorrow: try and create a inventory and finish up monsters on the map
+
+june 6 2017:
+did monster interaction with player as in dmg now trying to figure out out to place the monster on the map with an image to know the
+location instead of on the screen which would not indicate where the monster actually is.
+tomorrow: try and place image in correct place and inventory.
+
+

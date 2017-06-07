@@ -132,4 +132,6 @@ did monster interaction with player as in dmg now trying to figure out out to pl
 location instead of on the screen which would not indicate where the monster actually is.
 tomorrow: try and place image in correct place and inventory.
 
-
+june 7 2017:
+did parts of player attacking the monster
+tomorrow: try and place monster image and fix why player is now moving slowly
